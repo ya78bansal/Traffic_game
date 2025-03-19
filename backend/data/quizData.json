@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "latitude": 40.748818,
+        "longitude": -73.985440,
+        "question": "What type of signal is at this location?",
+        "options": ["Traffic Light", "Stop Sign", "Pedestrian Crossing", "Speed Limit"],
+        "correct_answer": "Traffic Light"
+    },
+    {
+        "id": 2,
+        "latitude": 34.052235,
+        "longitude": -118.243683,
+        "question": "Which sign is present at this location?",
+        "options": ["Yield", "No Parking", "Speed Limit", "Railroad Crossing"],
+        "correct_answer": "No Parking"
+    },
+    {
+        "id": 3,
+        "latitude": 51.507351,
+        "longitude": -0.127758,
+        "question": "What is the main traffic rule sign here?",
+        "options": ["Roundabout", "One Way", "No Entry", "Stop"],
+        "correct_answer": "Roundabout"
+    }
+]
